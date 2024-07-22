@@ -1,0 +1,14 @@
+[
+    {
+        "email": "exemplo@gmail.com",
+        "senha": "exemplo1",
+        "telefone": "14000000000",
+        "cep": "17580000"
+    },
+    {
+        "email": "exemplo2@gmail.com",
+        "senha": "exemplo2",
+        "telefone": "1800000000",
+        "cep": "175867000"
+    }
+]
